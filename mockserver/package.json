@@ -1,0 +1,11 @@
+{
+  "name": "mockserver",
+  "version": "0.2.0",
+  "description": "Servidor Simulado para prática do protocolo de comunicação HTTP (arquitetura de rede Client-Server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Sant Ana",
+  "license": "ISC"
+}
