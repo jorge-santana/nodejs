@@ -4,7 +4,8 @@
   "description": "Servidor Simulado para prática do protocolo de comunicação HTTP (arquitetura de rede Client-Server)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve -p 3000 ./dist"
   },
   "author": "Jorge Sant Ana",
   "license": "ISC",
